@@ -1,0 +1,24 @@
+{
+  "name": "startprosjekt",
+  "version": "1.0.0",
+  "description": "Kult prosjekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "-t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julikrog/StartProsjekt.git"
+  },
+  "keywords": [
+    "Learn",
+    "git",
+    "node"
+  ],
+  "author": "Julie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julikrog/StartProsjekt/issues"
+  },
+  "homepage": "https://github.com/julikrog/StartProsjekt#readme"
+}
